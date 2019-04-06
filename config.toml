@@ -98,7 +98,7 @@ copyright = "ATOVK"            # default: author.name ↓        # 默认为下�
   baiduPush = false        # baidu push                  # 百度
   baiduAnalytics = ""      # Baidu Analytics
   baiduVerification = ""   # Baidu Verification
-  googleVerification = ""  # Google Verification         # 谷歌
+  googleVerification = "5wkMIUrqNvgT67LD9lCnUf9Cf_iSd7EKyOkonH3ILPs"  # Google Verification         # 谷歌
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)

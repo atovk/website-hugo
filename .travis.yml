@@ -8,6 +8,7 @@ addons:
 install:
   - rm -rf public || exit 0
 script: 
+  - git clone https://github.com/olOwOlo/hugo-theme-even themes/even
   - git clone https://$GITHUB_TOKEN@github.com/atovk/atovk.github.io.git public
   - hugo
 # 

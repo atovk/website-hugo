@@ -1,9 +1,9 @@
 ---
-title: "Vim Keyboard Shortcuts Cheatsheet"
+title: "VIM快捷键 / Vim Keyboard Shortcuts Cheatsheet"
 date: 2019-05-31T23:50:26+08:00
 draft: false
 tags: ["linux", "vim", "Shortcuts Cheatsheet"]
-categories: ["linux", "vim"]
+categories: ["linux", "vim", "快捷键"]
 author: "atovk"
 license: "CC BY-SA 4.0"
 contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a>'

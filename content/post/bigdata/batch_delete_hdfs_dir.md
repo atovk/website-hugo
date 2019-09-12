@@ -1,5 +1,5 @@
 ---
-title: "批量删除HDFS上无效的临时文件/ Batch delete hdfs dir"
+title: "批量删除HDFS上无效的临时文件 / Batch delete hdfs dir"
 date: 2019-05-31T23:46:56+08:00
 draft: false
 tags: ["bigdata", "HDFS", "linux", "shell"]

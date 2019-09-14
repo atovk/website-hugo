@@ -1,6 +1,11 @@
 ---
 title: "linux 命令行终端快捷键操作 / Linux teminal option"
 date: 2019-09-13T02:20:08+08:00
+keywords:
+- linux
+- 命令行终端快捷键
+- 效率
+description : "linux 终端命令行操作快捷键"
 draft: false
 tags: ["linux", "terminal", "hot key"]
 categories: ["linux", "terminal", "快捷键"]

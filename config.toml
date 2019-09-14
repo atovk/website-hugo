@@ -56,7 +56,7 @@ copyright = "ATOVK"            # default: author.name ↓        # 默认为下�
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme", "even"]
+  keywords = ["echosence", "tech", "codeing", "sharing", "record"]
   description = "atovk‘s site."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值

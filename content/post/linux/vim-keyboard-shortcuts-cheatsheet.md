@@ -161,6 +161,7 @@ contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/l
 | `:w` | 保存文件 |
 | `:w new_name` | 用 new\_name 作为文件名保存文件 |
 | `:wq` | 保存文件并退出 Vim |
+| `:x` | 保存文件并退出,文件未变动时,编辑时间不做变更 |
 | `:q!` | 退出 Vim，不保存文件改动 |
 | `ZZ` | 退出 Vim，如果文件被改动过，保存改动内容 |
 | `ZQ` | 与 :q! 相同，退出 Vim，不保存文件改动 |

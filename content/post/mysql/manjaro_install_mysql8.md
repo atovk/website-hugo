@@ -1,12 +1,12 @@
 ---
-title: "Manjaro_install_mysql-8"
+title: "In manjaro linux to install mysql 8.*"
 date: 2020-07-18T14:27:27+08:00
 keywords:
 - echosence
 - 技术分享
 - 
 description : "eazy install mysql from manjaro"
-draft: true
+draft: false
 tags: ["manjaro", "mysql"]
 categories: ["manjaro", "mysql"]
 author: "atovk"
@@ -15,8 +15,7 @@ contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/l
 
 ---
 
-# In manjaro linux to install mysql 8.*
-
+> in manjaro linux ,install mysql is so eazy!! follow down step by step.
 
 ```sh
 
@@ -26,7 +25,7 @@ sudo pacman -S mysql
 # random password
 sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
 
-# empty paddword
+# empty password
 sudo mysqld --initialize-insecure --user=mysql --basedir=/usr --datadir=/var/lib/mysql
 
 # auto start service

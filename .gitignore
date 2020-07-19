@@ -1,4 +1,3 @@
 /public
-/themes
+/themes/*
 .DS_Store
-themes/even

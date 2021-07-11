@@ -1,11 +1,12 @@
 ---
-title: "Notes on Distributed Systems for Young Bloods - 分布式系统萌新忠告"
+title: "Notes on Distributed Systems for Young Bloods - 分布式系统忠告"
 date: 2020-09-05T17:16:03+08:00
 keywords:
 - echosence
 - 技术分享
-- 分布式系统萌新忠告
-description : "Notes on Distributed Systems for Young Bloods 分布式系统萌新忠告"
+- 分布式系统忠告
+- 翻译
+description : "Notes on Distributed Systems for Young Bloods 分布式系统忠告"
 draft: false
 tags: ["Distributed"]
 categories: ["Distributed"]
@@ -15,7 +16,7 @@ contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/l
 
 ---
 
-### 分布式系统萌新忠告
+### 分布式系统忠告
 
 ### [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/ "Permalink to Notes on Distributed Systems for Young Bloods")
 

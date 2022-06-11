@@ -1,3 +1,5 @@
 /public
 /themes/*
 .DS_Store
+
+resources/_*/**

@@ -5,7 +5,9 @@ title = "@EchoSence"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
+
 theme = "even"
+themesDir = "themes"
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"

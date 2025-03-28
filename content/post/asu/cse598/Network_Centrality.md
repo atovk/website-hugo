@@ -1,12 +1,10 @@
 ---
-
 title: "Network Centrality"
 date: {{ .Date }}
 draft: false
 date: 2019-05-31T23:46:56+08:00
-draft: false
-tags: ["bigdata", "HDFS", "linux", "shell"]
-categories: ["bigdata", "HDFS", "linux", "shell"]
+tags: ["Social media mining"]
+categories: ["Social media mining"]
 author: "atovk"
 license: "CC BY-SA 4.0"
 contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a>'

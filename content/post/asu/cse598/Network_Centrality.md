@@ -1,6 +1,5 @@
 ---
 title: "Network Centrality"
-date: {{ .Date }}
 draft: false
 date: 2025-03-29T23:46:56+08:00
 tags: ["Social media mining"]
